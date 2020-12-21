@@ -1,0 +1,28 @@
+cd /home/ammvsu/
+cd /home/
+mkdir laba1
+cd /home/laba1
+cp ~/.bash_logout /home/laba1
+find ~/.bash_logout
+cp /root/.ash_history  /home/laba1
+mv .ash_history result2.ash_history.bak
+cp /root/.ash_history  /home/laba1
+mv .ash_history second.ash_history
+find
+git init
+cat result2.ash_history.bak
+cat second.ash_history
+cat result2.ash_history.bak
+cp /root/.ash_history  /home/laba1
+find
+mv .ash_history second2.ash_history
+cat .ash_history
+find
+cat second2.ash_histor
+cat second2.ash_history
+rm second2.ash_history
+rm second.ash_history
+rm result2.ash_history.bak
+find
+cp /root/.ash_history  /home/laba1
+
